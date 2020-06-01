@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813758912713",
+    "firebase_url": "https://kawal-corona-mjn.firebaseio.com",
+    "project_id": "kawal-corona-mjn",
+    "storage_bucket": "kawal-corona-mjn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813758912713:android:86f48e3fe3277aebef9518",
+        "android_client_info": {
+          "package_name": "mandev.com.siagacovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813758912713-gbcndpf8t49u68mf54feiv5cr9snptls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mandev.com.siagacovid19",
+            "certificate_hash": "a9939e28ab4ef88f85f1f28b5526bb92b37c8a3b"
+          }
+        },
+        {
+          "client_id": "813758912713-kbs6r4kr3t2qa9ctm71chvevau6l5cja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN56vYYJhjoTXTAe_4bLICHNjyKgmuICY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813758912713-kbs6r4kr3t2qa9ctm71chvevau6l5cja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
